@@ -10,8 +10,8 @@ const StyledIconLink = styled(Link)(() => [
 ])
 
 export const HomePageTitle: FC = () => {
-  const title = 'SOROCHAT'
-  const desc = 'Simple (not secure) chat app for Soroban.'
+  const title = 'StellarBite Stellar Wallet Connection'
+  const desc = 'StellarBite chat app to smart contract with Soroban.'
   const githubHref = 'https://github.com/benjaminsalon/sorochat'
 
   return (
